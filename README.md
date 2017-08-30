@@ -1,2 +1,2 @@
-# small--test
+# small-test
 small test project
